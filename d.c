@@ -1,3 +1,3 @@
 hello world 
 
-	set-upstream to track local and remote branches
+2.	set-upstream to track local and remote branches
